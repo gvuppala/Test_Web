@@ -1,0 +1,2 @@
+alert("Outside the javascript")
+
